@@ -66,9 +66,9 @@ int main() {
 }
 ```
 k.txt
-
+```
 X=a-b Y=a-c Z=a+b C=a-b C=a-b
-
+```
 # OUTPUT
 ![image](https://github.com/ttamizharasi/Ex-9-IMPLEMENTATION-OF-THE-BACK-END-OF-THE-COMPILER-/assets/119657317/bd4b4d04-0489-493c-8b02-c8e848e07c38)
 
